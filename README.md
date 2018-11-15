@@ -1,2 +1,5 @@
 # eclipse-calculation
 solar eclipse&amp;lunar eclipse
+使用美国海军天文台的软件计算即novas.c
+根据个人对日月食几何关系的理解而写，计算结果和nasa计算的时间相比差距在半分钟之内
+计算日偏食、日全食、日环食在地球上的轨迹还没能写出来，目前计算出的锥线在地球投影的坐标和nasa的结果差距在1度以上，误差较大
